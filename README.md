@@ -1,0 +1,2 @@
+# javaworkspace
+for java projects
